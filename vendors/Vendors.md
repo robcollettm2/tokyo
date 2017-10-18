@@ -1,4 +1,4 @@
 | Name       | Type           | Notes  |
 | :------------- | :-------------| :----- |
-| Id      | Guid | Primary key |
+| Id      | UniqueIdentifier | Primary key |
 | Name      | varchar(150)      |   Simple name of vendor |
